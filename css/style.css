@@ -1,0 +1,10 @@
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+#app .navbar .site-name :before {
+    content: '123';
+    color: red;
+
+}
